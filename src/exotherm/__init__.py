@@ -1,0 +1,1 @@
+"""Exotherm desktop application package."""
